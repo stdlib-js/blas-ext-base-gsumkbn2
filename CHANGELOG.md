@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-10)
+## Unreleased (2025-01-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`88696eb`](https://github.com/stdlib-js/stdlib/commit/88696ebda08b52c7a5e2a64680c75e3c5b113792) - **docs:** update require path _(by Athan Reines)_
 -   [`0639c11`](https://github.com/stdlib-js/stdlib/commit/0639c11f0aac69a249c9710c9031e4f9cec14f62) - **refactor:** update `blas/ext/base/gsumkbn2` to follow current project conventions [(#4678)](https://github.com/stdlib-js/stdlib/pull/4678) _(by Muhammad Haris)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 
 </section>
