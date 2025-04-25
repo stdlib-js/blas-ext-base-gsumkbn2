@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-02)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b415a2c`](https://github.com/stdlib-js/stdlib/commit/b415a2ccc60bdb573aee459ffde809ec017df1c2) - **test:** add zeros tests _(by Athan Reines)_
 -   [`97f01ab`](https://github.com/stdlib-js/stdlib/commit/97f01ab3c49115bb526ccdb88bbe8fd07770f17a) - **feat:** add accessor arrays support to `blas/ext/base/gsumkbn2` [(#4960)](https://github.com/stdlib-js/stdlib/pull/4960) _(by Aayush Khanna)_
 -   [`88696eb`](https://github.com/stdlib-js/stdlib/commit/88696ebda08b52c7a5e2a64680c75e3c5b113792) - **docs:** update require path _(by Athan Reines)_
 -   [`0639c11`](https://github.com/stdlib-js/stdlib/commit/0639c11f0aac69a249c9710c9031e4f9cec14f62) - **refactor:** update `blas/ext/base/gsumkbn2` to follow current project conventions [(#4678)](https://github.com/stdlib-js/stdlib/pull/4678) _(by Muhammad Haris)_
