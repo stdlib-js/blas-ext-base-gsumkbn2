@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-05-26)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`7be4df1`](https://github.com/stdlib-js/stdlib/commit/7be4df1ff62f12c957c91f1fd65f45cd800d5802) - address pointer increment bug
+-   [`d3451ce`](https://github.com/stdlib-js/stdlib/commit/d3451ceb42a0109140785d3928ab1242450cc61a) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`7be4df1`](https://github.com/stdlib-js/stdlib/commit/7be4df1ff62f12c957c91f1fd65f45cd800d5802) - **fix:** address pointer increment bug _(by Athan Reines)_
+-   [`d3451ce`](https://github.com/stdlib-js/stdlib/commit/d3451ceb42a0109140785d3928ab1242450cc61a) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`b415a2c`](https://github.com/stdlib-js/stdlib/commit/b415a2ccc60bdb573aee459ffde809ec017df1c2) - **test:** add zeros tests _(by Athan Reines)_
 -   [`97f01ab`](https://github.com/stdlib-js/stdlib/commit/97f01ab3c49115bb526ccdb88bbe8fd07770f17a) - **feat:** add accessor arrays support to `blas/ext/base/gsumkbn2` [(#4960)](https://github.com/stdlib-js/stdlib/pull/4960) _(by Aayush Khanna)_
 -   [`88696eb`](https://github.com/stdlib-js/stdlib/commit/88696ebda08b52c7a5e2a64680c75e3c5b113792) - **docs:** update require path _(by Athan Reines)_
